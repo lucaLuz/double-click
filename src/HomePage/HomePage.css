@@ -1,0 +1,30 @@
+
+   .exibir {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .btnr {
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  
+  .link{
+    color: var(--fundo);
+    font-weight: 700;
+    position: relative;
+    top: 10px;
+    text-decoration: solid var(--laranja);
+  }
+
+  h1{
+    font-size:35px;
+    color: var(--laranja);
+  }
+
+  p{
+    color: var(--laranja);
+    font-weight: 700;
+  }
