@@ -58,5 +58,5 @@ button{
 
 
 .input, .select {
-    width: auto; /* Ajuste a largura para auto para que o input e select preencham o espaço disponível */
+    width: auto; 
 }
